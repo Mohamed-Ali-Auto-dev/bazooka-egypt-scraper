@@ -42,7 +42,7 @@ bazooka-egypt-scraper/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <(https://github.com/Mohamed-Ali-Auto-dev/bazooka-egypt-scraper)>
 cd bazooka-egypt-scraper
 ```
 
